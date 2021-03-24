@@ -3,16 +3,14 @@
 
 Dataset: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 Proposed Methods:
-\begin{itemize}
 Linear regression
 Manual implementation
 skier
 ARIMA
 LSTM/transformer
 xgBoost
-\end{itemize}
-Data acquisition
-Data exploration(EDA): variable
+
+Data exploration(EDA):
 https://www.kaggle.com/emilianaflores/future-sales-part-i-eda 
 WorldCloud, Heatmap-XY 
 Data Visualization-time series, histogram, feature correlation- SN

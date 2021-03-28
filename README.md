@@ -1,5 +1,6 @@
 # CE9010_project
-Topic: Predict Future sales
+**Topic:** Predict Future sales
+
 Dataset: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 Proposed Methods:
 Linear regression
@@ -9,8 +10,7 @@ ARIMA
 LSTM/transformer
 xgBoost
 
-Data acquisition
-Data exploration(EDA): variable
+Data exploration(EDA):
 https://www.kaggle.com/emilianaflores/future-sales-part-i-eda 
 WorldCloud, Heatmap-XY 
 Data Visualization-time series, histogram, feature correlation- SN

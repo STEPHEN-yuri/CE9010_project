@@ -28,3 +28,4 @@ https://www.kaggle.com/kcbighuge/predicting-sales-with-a-nested-lstm
 xgBoost HY -
 https://www.kaggle.com/andreshg/xgboost-optuna-hyperparameter-tunning
 
+XGBoost+LGBM+LSTM: https://www.kaggle.com/howeverforever/future-sales-xgb-lgbm-lstm

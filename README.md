@@ -34,13 +34,20 @@ XGBoost+LGBM+LSTM: https://www.kaggle.com/howeverforever/future-sales-xgb-lgbm-l
 
 Google slides arrangement:
 
-Introduction (problem motivation+ data acquisition): HY
+
+Introduction (problem motivation+ data acquisition): HY 
+
 data exploration: XY
-linear regression: XY
-arima: SN
-lstm: SN
-xgboost: HY
-conclusion: SN
+
+linear regression: XY 
+
+arima: SN 
+
+lstm: SN 
+
+xgboost: HY 
+
+conclusion: SN 
 
 
 

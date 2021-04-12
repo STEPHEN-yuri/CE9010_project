@@ -29,3 +29,28 @@ xgBoost HY -
 https://www.kaggle.com/andreshg/xgboost-optuna-hyperparameter-tunning
 
 XGBoost+LGBM+LSTM: https://www.kaggle.com/howeverforever/future-sales-xgb-lgbm-lstm
+
+
+
+Google slides arrangement:
+
+
+Introduction (problem motivation+ data acquisition): HY 
+
+data exploration: XY
+
+linear regression: XY 
+
+arima: SN 
+
+lstm: SN 
+
+xgboost: HY 
+
+conclusion: SN 
+
+
+
+
+
+
